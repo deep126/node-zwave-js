@@ -50,5 +50,8 @@
 			"#": "12",
 			"$import": "templates/jasco_template.json#dimmer_times_a"
 		}
-	]
+	],
+	"compat": {
+		"manualValueRefreshDelayMs": 250
+	}
 }
